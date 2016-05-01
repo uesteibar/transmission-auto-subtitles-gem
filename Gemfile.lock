@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    opensubtitles (0.0.2)
+    rtransmission (0.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  opensubtitles
+  rtransmission
+
+BUNDLED WITH
+   1.11.2
