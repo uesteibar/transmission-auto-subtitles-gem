@@ -1,5 +1,5 @@
 require "rtransmission"
-require "./lib/models/opensubtitles_downloader"
+require "models/opensubtitles_downloader"
 
 class TransmissionAutoSubtitles
   def initialize subtitles_downloader: OpensubtitlesDownloader.new, interval: 10
